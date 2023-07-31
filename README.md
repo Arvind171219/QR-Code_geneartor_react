@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# Deployed link : https://64c7a7a4e649b50d3ef991cd--luminous-torte-00d748.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
